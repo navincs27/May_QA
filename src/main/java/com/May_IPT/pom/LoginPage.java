@@ -39,6 +39,8 @@ public class LoginPage extends BaseClass {
 	public void enterMobileInput(String mobileNumber) {
 		input(mobile_input, mobileNumber);
 	}
+	public void password() {}
+	
 	
 	public void selectBoysTshirt() {
 //		mouseHover(kids);
